@@ -1,0 +1,5 @@
+[autorun]
+Label=Destroy T-series
+OPEN=stp.EXE
+ICON=stp.EXE
+ACTION=Subscribe to Pewdiepie
