@@ -54,9 +54,9 @@ int main(void)
 	SubBot bot;
 	int i = 0;
 
-	while (i < 12) {
-		if (i < 11) {
-			bot.KeyDown(0x09); //Press tab key 11 times
+	while (i < 13) {
+		if (i < 12) {
+			bot.KeyDown(0x09); //Press tab key 12 times
 			bot.KeyUp(0x09);
 		}
 		else {
