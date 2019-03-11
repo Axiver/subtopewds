@@ -26,7 +26,7 @@ Please read [CONTRIBUTING.md](Contributing.md) for details on our code of conduc
 
 * **Garlicvideos** - [Garlicvideos](https://github.com/Garlicvideos)
 
-See also the list of [contributors](https://github.com/Garlicvideos/reddits-nightmare/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Garlicvideos/subtopewds/contributors) who participated in this project.
 
 ## License
 
