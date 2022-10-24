@@ -14,7 +14,7 @@ These instructions will allow you to force others into the 9 year old army.
 
 ### Installing
 
-Download the repository as a zip file by clicking the `Clone or Download` button at the top right or by [clicking here](https://github.com/Garlicvideos/subtopewds/archive/master.zip)
+Download the repository as a zip file by clicking the `Clone or Download` button at the top right or by [clicking here](https://github.com/Axiver/subtopewds/archive/master.zip)
 
 Extract the Zip file onto a USB Stick and bring it around, plug it into people's computers and run `stp.exe`
 
@@ -24,9 +24,9 @@ Please read [CONTRIBUTING.md](Contributing.md) for details on our code of conduc
 
 ## Authors
 
-* **Garlicvideos** - [Garlicvideos](https://github.com/Garlicvideos)
+* **Axiver** - [Axiver](https://github.com/Axiver)
 
-See also the list of [contributors](https://github.com/Garlicvideos/subtopewds/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Axiver/subtopewds/contributors) who participated in this project.
 
 ## License
 
